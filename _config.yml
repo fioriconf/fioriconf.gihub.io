@@ -73,6 +73,9 @@ collections:  # process the _data folder
   schedule:
     output: true
     permalink: /:collection/:name/
+  legal:
+    output: false
+    permalink: /:collection/
   organizers:
     output: false
     permalink: /:collection/
@@ -103,11 +106,11 @@ defaults:
       sitemap: false
 
 # FioriConf email
-conduct_email: "fioriconf@gmail.com"
-contact_us_email: "fioriconf@gmail.com"
-opportunity_grants_email: "fioriconf@gmail.com"
-program_team_email: "fioriconf@gmail.com"
-sponsors_email: "fioriconf@gmail.com"
+conduct_email: "fioriconference@gmail.com"
+contact_us_email: "fioriconference@gmail.com"
+opportunity_grants_email: "fioriconference@gmail.com"
+program_team_email: "fioriconference@gmail.com"
+sponsors_email: "fioriconference@gmail.com"
 
 # Our FioriConf links
 cfp_application: "https://www.eventbrite.de/e/fioriconf-2024-registration-675821208427"

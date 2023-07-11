@@ -58,4 +58,4 @@ Have you heard the expression "never tweet" (usually said on Twitter)? This is t
 
 ## Wrap-up
 
-To sign up for any of the teams (or just say "put me to work"), send an email to fioriconf@gmail.com and I'll put you on the list. I would love to have you! You do not have to have previous organizing experience.
+To sign up for any of the teams (or just say "put me to work"), send an email to fioriconference@gmail.com and I'll put you on the list. I would love to have you! You do not have to have previous organizing experience.
