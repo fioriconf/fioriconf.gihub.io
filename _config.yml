@@ -110,10 +110,10 @@ program_team_email: "fioriconf@gmail.com"
 sponsors_email: "fioriconf@gmail.com"
 
 # Our FioriConf links
-cfp_application: "https://www.eventbrite.com"
+cfp_application: "https://www.eventbrite.de/e/fioriconf-2024-registration-675821208427"
 slack_link: ""
 sponsorship_prospectus: ""
-ticket_link: "https://www.eventbrite.com"
+ticket_link: "https://www.eventbrite.de/e/fioriconf-2024-registration-675821208427"
 youtube_link: "https://www.youtube.com/@fioriconf"
 
 github: [metadata]
