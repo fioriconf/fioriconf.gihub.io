@@ -3,7 +3,7 @@ layout: default
 description: Datenschutzerklärung
 hero_text_align: left
 hero_theme: green
-permalink: /disclaimer.html
+permalink: /disclaimer
 sitemap: false
 title: Datenschutzerklärung
 ---

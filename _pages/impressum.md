@@ -3,7 +3,7 @@ layout: default
 description: Impressum
 hero_text_align: left
 hero_theme: green
-permalink: /impressum.html
+permalink: /impressum
 sitemap: false
 title: Impressum
 ---
