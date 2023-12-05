@@ -111,7 +111,7 @@ We support native [Liquid tags](https://shopify.github.io/liquid/). The ones you
 
 The double-moustache indicates a variable. You can use the variables in the front matter, or variables from `_config.yml`. To use variables from `_config.yml`, prefix with `site`:
 
-`{{ site.contact_us_email }}` will render as "fioriconf@@gmail.com"
+`{{ site.contact_us_email }}` will render as "fioriconference@@gmail.com"
 
 ### `{% if %}`
 
