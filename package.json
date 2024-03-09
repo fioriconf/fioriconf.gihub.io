@@ -1,0 +1,20 @@
+{
+  "name": "fioriconf_2024_website",
+  "version": "1.0.0",
+  "description": "FioriConf 2024 website",
+  "homepage": "https://www.fioriconf.org",
+  "repository": "https://github.com/fioriconf/fioriconf.github.io",
+  "license": "Apache-2.0",
+  "private": true,
+  "author": {
+    "name": "Tobias Hofmann",
+    "email": "hof...@outlook.com",
+    "url": "https://www.itsfullofstars.de"
+  },
+  "scripts": {
+    "start": "browser-sync . -w"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
