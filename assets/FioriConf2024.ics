@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FioriConf//DE
+TZID:Europe/Berlin
+BEGIN:VEVENT
+UID:3175274
+DTSTART;VALUE=DATE:20240424
+DTEND;VALUE=DATE:20240425
+SUMMARY:FioriConf 2024
+DESCRIPTION:The Fiori conference. From Fiori users, for Fiori users.
+X-ALT-DESC;FMTTYPE=text/html:<p>The Fiori conference. From Fiori users, for Fiori users.</p><br/><a href="https://www.youtube.com/@fioriconf">Live Stream: YouTube</a>
+LOCATION:Live at YouTube: https://www.youtube.com/@fioriconf
+URL:https://www.fioriconf.org/
+END:VEVENT
+END:VCALENDAR
